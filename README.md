@@ -1,12 +1,12 @@
 Languages used
 HTML,CSS and JavaScript(React.js)
-how to open react project file
+- how to open react project file
 - command 
 - npm create vite@latest file-name -- --template react
 - after created file - npm install
-About Website
-Shopping cart website created using "React + Vite"
-App.jsx File includes 5 main components
+- About Website
+- Shopping cart website created using "React + Vite"
+- App.jsx File includes 5 main components
 - CardSection
 - contains
  - Component that displays product details. It includes a button to add/remove items from a cart. The component takes in product details and a function to manage cart item counts. The button toggles between "Add to Cart" and "Remove from Cart," updating the cart count accordingly. The card displays product information like name, image, sale badge, price, and rating if available.
@@ -25,8 +25,8 @@ App.jsx File includes 5 main components
 
 To Run Application
 -npm run dev
-after the above command 
-the file runs in this url -http://localhost:5173/
+- after the above command 
+- the file runs in this url -http://localhost:5173/
 
 Then i have pushed my code on github and 
 deployed my task 
